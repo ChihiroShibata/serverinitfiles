@@ -47,8 +47,8 @@ case "$TERM" in
 esac
 
 alias ls='ls -F'
-alias pdsh="pdsh -R ssh -g .all"
-alias pdcp="pdcp -R ssh -g .all"
+#alias pdsh="pdsh -R ssh -g .all"
+#alias pdcp="pdcp -R ssh -g .all"
 
 export PATH="$HOME/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
