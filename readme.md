@@ -8,9 +8,6 @@ This is a shell script that
 
 ```shell
 $ git clone https://github.com/ChihiroShibata/serverinitfiles.git 
-```
-
-```shell
 $ cd serverinitfiles
 $ bash init.sh
 ```
