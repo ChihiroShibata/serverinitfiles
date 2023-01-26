@@ -1,0 +1,8 @@
+hardstatus alwayslastline "[%02c] %`%-w%{=b bw}%n %t%{-}%+w"
+escape ^Zz
+#mousetrack on
+defscrollback 10000
+
+#altscreen on
+
+termcapinfo xterm* ti@:te@
